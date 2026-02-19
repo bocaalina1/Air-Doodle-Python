@@ -1,0 +1,10 @@
+# Python bytecode
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files (optional but recommended)
+.venv/
+venv/
+env/
+.env
